@@ -1,0 +1,12 @@
+{
+  "name": "ayadgari/328/Week2/hello-fat-free",
+  "authors": [
+    {
+      "name": "Ahmad Reshad Yadgari",
+      "email": "yadgari.ahmadreshad@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
